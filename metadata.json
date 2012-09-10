@@ -1,0 +1,25 @@
+{
+  "dependencies": [
+    {
+      "version_requirement": ">= 0.0.2",
+      "name": "puppetlabs/apt"
+    }
+  ],
+  "version": "0.0.1",
+  "types": [
+
+  ],
+  "summary": "Install the foreman dashboard and ENC",
+  "description": "UNKNOWN",
+  "project_page": "http://theforeman.org/",
+  "license": "GPL3",
+  "source": "UNKNOWN",
+  "checksums": {
+    "README": "7893c73a75ec578eaaa8672ea1b9f497",
+    "manifests/init.pp": "a210fe75cdaf25a143e976bf527d5f8d",
+    "Modulefile": "c6ea01245a109b1fdb96121fe19935b0",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef"
+  },
+  "name": "skottler-foreman",
+  "author": "skottler"
+}
